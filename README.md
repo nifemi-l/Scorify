@@ -1,4 +1,10 @@
-# EECS 581 Project 3
+# Scorify - An EECS 581 Project
+
+## Demo Video
+
+<video controls width="100%" src="media/EECS%20581%20Team%2025%20P3%20Video%20Demonstration.mp4"></video>
+
+If the embedded player does not render in your viewer, open the demo directly here: [EECS 581 Team 25 P3 Video Demonstration](media/EECS%20581%20Team%2025%20P3%20Video%20Demonstration.mp4)
 
 ## Note
 This project was generated using the standard create-react-app tool from Facebook. As such, the project's structure and some of its files are pre-defined and were not written by us. 
