@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-<video src="media/scorify-demo-compressed.mp4" controls width="100%"></video>
+<video src="media/scorify-demo-readme-small.mp4" controls width="100%"></video>
 
 If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo-compressed.mp4)
 
