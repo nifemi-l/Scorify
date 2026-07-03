@@ -2,6 +2,11 @@
 
 ## Demo Video
 
+
+
+https://github.com/user-attachments/assets/b6b5cafe-0da8-49f0-a09e-35a381f80eac
+
+
 <video src="media/scorify-demo-readme-small.mp4" controls width="100%"></video>
 
 If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo-compressed.mp4)
