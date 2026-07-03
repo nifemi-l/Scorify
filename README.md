@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/44aec8e2-7874-4e55-8e7a-7ff8dd7ebea5
+https://github.com/user-attachments/assets/c23925cf-6a81-4672-9728-26f7a74cd9b4
 
 If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo.mp4)
 
