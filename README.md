@@ -2,13 +2,9 @@
 
 ## Demo Video
 
-
 https://github.com/user-attachments/assets/44aec8e2-7874-4e55-8e7a-7ff8dd7ebea5
 
-
-<video src="media/scorify-demo-readme-small.mp4" controls width="100%"></video>
-
-If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo-compressed.mp4)
+If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo.mp4)
 
 ## Note
 This project was generated using the standard create-react-app tool from Facebook. As such, the project's structure and some of its files are pre-defined and were not written by us. 
