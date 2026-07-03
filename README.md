@@ -3,8 +3,7 @@
 ## Demo Video
 
 
-
-https://github.com/user-attachments/assets/b6b5cafe-0da8-49f0-a09e-35a381f80eac
+https://github.com/user-attachments/assets/44aec8e2-7874-4e55-8e7a-7ff8dd7ebea5
 
 
 <video src="media/scorify-demo-readme-small.mp4" controls width="100%"></video>
