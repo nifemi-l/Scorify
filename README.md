@@ -2,9 +2,9 @@
 
 ## Demo Video
 
-<video controls width="100%" src="media/EECS%20581%20Team%2025%20P3%20Video%20Demonstration.mp4"></video>
+<video src="media/scorify-demo-compressed.mp4" controls width="100%"></video>
 
-If the embedded player does not render in your viewer, open the demo directly here: [EECS 581 Team 25 P3 Video Demonstration](media/EECS%20581%20Team%2025%20P3%20Video%20Demonstration.mp4)
+If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo-compressed.mp4)
 
 ## Note
 This project was generated using the standard create-react-app tool from Facebook. As such, the project's structure and some of its files are pre-defined and were not written by us. 
