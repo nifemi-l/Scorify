@@ -4,8 +4,6 @@
 
 https://github.com/user-attachments/assets/c23925cf-6a81-4672-9728-26f7a74cd9b4
 
-If the video does not render in your viewer, open it directly here: [Scorify Demo Video](media/scorify-demo.mp4)
-
 ## Note
 This project was generated using the standard create-react-app tool from Facebook. As such, the project's structure and some of its files are pre-defined and were not written by us. 
 See the src/client folder in particular. Almost all of the files have been modified, and many created, for our custom application, but reportWebVitals.js and setupTests.js, 
